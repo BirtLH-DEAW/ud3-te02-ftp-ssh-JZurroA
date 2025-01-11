@@ -1,0 +1,14 @@
+﻿#
+127.0.0.1 localhost
+::1 localhost
+
+127.0.0.1 www.jzurro-birt.eus
+127.0.0.1 www.sitioprimero.com
+127.0.0.1 www.sitiosegundo.com
+
+# Added by Docker Desktop
+192.168.0.16 host.docker.internal
+192.168.0.16 gateway.docker.internal
+# To allow the same kube context to work on the host and the container:
+127.0.0.1 kubernetes.docker.internal
+# End of section
